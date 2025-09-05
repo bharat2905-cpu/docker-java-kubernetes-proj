@@ -1,0 +1,6 @@
+/home/bharat/doc-java-kub-proj/docker-java-kubernetes-proj/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/configuration/ProductServiceConfiguration.java
+/home/bharat/doc-java-kub-proj/docker-java-kubernetes-proj/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/healthchecks/BasicHealthCheck.java
+/home/bharat/doc-java-kub-proj/docker-java-kubernetes-proj/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/ProductServiceApplication.java
+/home/bharat/doc-java-kub-proj/docker-java-kubernetes-proj/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/services/ProductService.java
+/home/bharat/doc-java-kub-proj/docker-java-kubernetes-proj/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/resources/ProductResource.java
+/home/bharat/doc-java-kub-proj/docker-java-kubernetes-proj/productcatalogue/src/main/java/uk/co/danielbryant/djshopping/productcatalogue/model/Product.java
