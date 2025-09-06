@@ -9,8 +9,8 @@ $ export MAVEN_HOME=/usr/share/maven
 $ echo $MAVEN_HOME
 
 ## step 2.
-$ docker images
 ### Build the docker image
+$ docker images
 $ mvn clean install
 $ docker build -t bharat2002/productcatalogue:latest .
 
