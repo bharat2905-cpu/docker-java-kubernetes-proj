@@ -10,9 +10,9 @@ Deploying Java Applications with Docker and Kubernetes
 
 ## step 2.
 ### Build the docker image
-$ docker images
-$ mvn clean install
-$ docker build -t bharat2002/productcatalogue:latest .
+#### $ docker images
+#### $ mvn clean install
+####$ docker build -t bharat2002/productcatalogue:latest .
 
 $ mvn clean install
 $ docker build -t bharat2002/stockmanager:latest .
